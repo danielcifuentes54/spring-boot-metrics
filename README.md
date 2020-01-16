@@ -1,2 +1,2 @@
 # spring-boot-metrics
-Spring boot - Actuator - Micrometer - Prometheus - Grafana - Docker
+Run docker-compose up -d
